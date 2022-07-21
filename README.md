@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java Fullstack Development 
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on any open source projects
-- 📫 reacg out to me at: shariff.zainal7@gmail.com
+- 📫 reach out to me at: shariff.zainal7@gmail.com
 
 <!---
 zinujust/zinujust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
