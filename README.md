@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zinujust
-- 👀 I’m interested in Java Fullstack Development 
+- 👀 I’m interested in Full-stack Java Development 
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on any open source projects
 - 📫 reach out to me at: shariff.zainal7@gmail.com
