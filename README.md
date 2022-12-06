@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zinujust
 - 👀 I’m interested in Full-stack Java Development 
-- 🌱 I’m currently learning AWS
+- 🌱 AWS Certified!
 - 💞️ I’m looking to collaborate on any open source projects
 - 📫 reach out to me at: shariff.zainal7@gmail.com
 
